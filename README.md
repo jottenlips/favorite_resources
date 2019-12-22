@@ -1,6 +1,6 @@
 # About
 
-This is a list of articles, documents, and videos that I have found to be very helpful for modern web development. 
+This is a list of articles, documents, and videos that I have found to be very helpful for web development. 
  
 
 # Databases
