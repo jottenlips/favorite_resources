@@ -81,7 +81,7 @@ serverless-plugin-monorepo
 
 [CloudFormation Script](https://gist.github.com/efi-mk/d6586669a472be8ea16b6cf8e9c6ba7f)
 
-[Allowing Internet Access](https://aws.amazon.com/premiumsupport/knowledge-center/internet-access-lambda-function/)
+[Allowing Internet Access to Lambdas in a VPC](https://aws.amazon.com/premiumsupport/knowledge-center/internet-access-lambda-function/)
 
 ## Terraform
 
