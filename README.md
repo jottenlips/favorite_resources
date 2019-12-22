@@ -54,17 +54,25 @@ This is a list of articles, documents, and videos that I have found to be very h
 ### UsefulPlugins
 
 serverless-prune-plugin
+
 serverless-dotenv-plugin
+
 serverless-offline
+
 serverless-domain-manager
+
 serverless-plugin-warmup
 
 #### Python
+
 serverless-wsgi
+
 serverless-python-requirements
 
 #### Node.js
+
 serverless-webpack
+
 serverless-plugin-monorepo
 
 ### VPC
